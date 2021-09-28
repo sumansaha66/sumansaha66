@@ -3,7 +3,9 @@ I am a PhD candidate at the Discipline of Business Analytics of the University o
 
  2021: [IEEE Access](https://ieeexplore.ieee.org/document/9461199), [IJCNN](https://ieeexplore.ieee.org/document/9533799)
 
+I have in-depth understanding of both theoretical and practical aspects of major supervised and unsupervised machine learning models. I have gained significant expertise in the following data science packages through teaching, research, and industry experience.
 
+Numpy, Pandas, Keras, Scikit-Learn, Tensorflow, PyTorch, Statsmodels, NetworkX, Stellargraph, Matplotlib, Seaborne
 
 <!--
 **sumansaha66/sumansaha66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
