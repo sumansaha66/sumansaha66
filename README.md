@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a PhD candidate at the Discipline of Business Analytics of the University of Sydney, Australia.
 
 <!--
 **sumansaha66/sumansaha66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
