@@ -1,5 +1,5 @@
 ### About me
-I am a PhD candidate at the Discipline of Business Analytics of the University of Sydney, Australia.
+I am a PhD candidate at the Discipline of Business Analytics of the University of Sydney, Australia. I am currently working on the application of machine learning and graph-based techniquies for stock market prediction.
 
 <!--
 **sumansaha66/sumansaha66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
