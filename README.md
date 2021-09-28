@@ -1,7 +1,8 @@
 ### About me
 I am a PhD candidate at the Discipline of Business Analytics of the University of Sydney, Australia. I am currently working on the application of machine learning and graph-based techniquies for stock market prediction. I have several publications in this regard which are as follows.
 
- - 2021 [IJCNN-2021](https://ieeexplore.ieee.org/abstract/document/9533799?casa_token=_Ee_rFlFt7IAAAAA:7W-OlV54EZuiHL6UaxkGyI_P5LBhqoJH3HrusrXv08yWItN3ItDsCVVBSzBhwZzyfEwzAB8)
+ - 2021: 
+ [IJCNN-2021](https://ieeexplore.ieee.org/abstract/document/9533799?casa_token=_Ee_rFlFt7IAAAAA:7W-OlV54EZuiHL6UaxkGyI_P5LBhqoJH3HrusrXv08yWItN3ItDsCVVBSzBhwZzyfEwzAB8)
 
 
 
